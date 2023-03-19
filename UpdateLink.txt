@@ -1,9 +1,1 @@
-{
-  "UpdateLink": 
-  [
-    "link1",
-    "link2",
-    "link3"
-  ],
-  "actual_version":"1.0"
-}
+{"UpdateLink":["link1","link2","link3"],"actual_version":"1.0"}
